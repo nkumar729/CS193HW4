@@ -1,4 +1,4 @@
-# CS193HW4 Individual Assignment
+# CS193 HW4 Merge Conflict
  
 ## What is this assignment
 
