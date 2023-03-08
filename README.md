@@ -6,7 +6,7 @@ In this assignment, you will be adding a feature to a basic calculator function 
  
 ## When is this due?
 
-This homework will be due on Friday, 11/04 at 11:59 pm.
+Refer to BrightSpace for the assignment due date.
  
 ## When will I know I'm done?
 
